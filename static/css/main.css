@@ -4,13 +4,20 @@
 }
 
 .nav-bar-items {
-    font-size: smaller;
-    padding-right: 37px;
+    font-size: 12px;
+    padding-left: 25px;
+    padding-right: 15px;
 }
+
+
 
 a {
     color: black;
     font-weight: 500;
+}
+
+a:hover {
+    text-decoration: none;
 }
 
 .login-box {
