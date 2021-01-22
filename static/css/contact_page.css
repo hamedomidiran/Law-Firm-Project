@@ -15,15 +15,6 @@ body.container {
 }
 
 
-.border-left-ovr {
-    border-left-style: solid;
-}
-
-.header-font {
-    font-size: 20px;
-    font-weight: light;
-}
-
 a {
     color: black;
     font-weight: 500;
@@ -49,4 +40,30 @@ a:hover {
     border-radius: 1px;
 }
 
+.contact-main-container {
+    margin-top: 15px;
+    padding-left: 35px;
+}
 
+.left-container {
+    color:white;
+    background-color: #7E2F2B;
+    padding: 10px 20px 50px 20px; 
+}
+
+h4 {
+    font-weight: lighter;
+}
+
+#left-contact-image {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.middle-container {
+    background-color: aqua;
+}
+
+.right-container {
+    background-color: black;
+}
