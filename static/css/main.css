@@ -9,9 +9,11 @@ body.container {
 }
 
 .nav-bar-items {
-    font-size: 12px;
-    padding-left: 25px;
-    padding-right: 15px;
+    font-size: 14px;
+    padding-left: 45px;
+    padding-right: 45px;
+    margin-top: 8px;
+    margin-bottom: 10px;
 }
 
 
@@ -49,4 +51,17 @@ a:hover {
     border-radius: 1px;
 }
 
+.bot-nav-items {
+    font-size: smaller;
+    padding-right: 37px;
+    display:inline;
+}
 
+.footer-container {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.footer-links {
+    text-align: center;
+}	
