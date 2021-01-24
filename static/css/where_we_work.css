@@ -1,0 +1,113 @@
+body.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.header-main-container {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.nav-bar-items {
+    font-size: 14px;
+    padding-left: 45px;
+    padding-right: 45px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+
+.border-left-ovr {
+    border-left-style: solid;
+}
+
+.header-font {
+    font-size: 20px;
+    font-weight: light;
+}
+
+a {
+    color: black;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.login-box {
+    border: solid;
+    background-color: #CCCCCC;
+    max-width: 70px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: -1px;
+    color:white;
+    padding: 8px;
+}
+
+.main-logo {
+    margin-top: 25px;
+    border-radius: 1px;
+}
+
+.where-main-container {
+    margin-top: 15px;
+    padding-left: 35px;
+}
+
+.side-sec {
+    color:white;
+    background-color: #7E2F2B;
+    padding: 20px; 
+    max-width: 25%;
+    max-height: 325px;
+}
+
+#where-under {
+    margin-top:10px;
+}
+
+.left-image {
+    margin-bottom:10px;
+}
+
+.career-p {
+    margin-top: -5px;
+    font-size:12px;
+}
+
+.middle-container {
+    background-color:white;
+    max-width: 45%;
+    margin-left: 25px;
+    margin-right: 10px;
+    padding-right: 7px;
+}
+
+.where-list {
+    margin-left:-25px;
+    margin-right:120px;
+}
+
+.country {
+    margin-left:-80px;       
+}
+   
+
+
+.bot-nav-items {
+    font-size: smaller;
+    padding-right: 37px;
+    display:inline;
+}
+
+.footer-container {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 10px;
+}
+
+.footer-links {
+    text-align: center;
+}	
