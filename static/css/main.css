@@ -1,7 +1,16 @@
+body {
+    background-image: url("/static/images/background-pic.jpg");
+}
+
+body {
+    background-image: url("/static/images/background-pic.jpg");
+}
+
 body.container {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
 
 .header-main-container {
     padding-left: 50px;
@@ -41,7 +50,7 @@ a:hover {
     max-width: 70px;
     text-align: center;
     border-radius: 4px;
-    margin-top: -1px;
+    margin-top: 0px;
     color:white;
     padding: 8px;
 }
@@ -60,6 +69,7 @@ a:hover {
 .footer-container {
     padding-left: 50px;
     padding-right: 50px;
+    padding-bottom: 10px;
 }
 
 .footer-links {
